@@ -1,0 +1,21 @@
+<testMap2>
+	<npcs>
+		<npc1>
+			<name>testname</name>
+			<type>npc</type>
+			<displayid>playersprite_female</displayid>
+			<directionfacing>1</directionfacing>
+			<behaviour></behaviour>
+			<reaction></reaction>
+		</npc1>
+		<npc2>
+			<name>testname2</name>
+			<type>npc</type>
+			<displayid>playersprite_female</displayid>
+			<directionfacing>1</directionfacing>
+			<behaviour></behaviour>
+			<reaction></reaction>
+		</npc2>
+	</npcs>
+</testMap2>
+
