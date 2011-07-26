@@ -1,0 +1,2 @@
+/Users/nova/Documents/novaRPGv2/Classes/StateManager.m: In function '-[StateManager deleteStateWithID:]':
+/Users/nova/Documents/novaRPGv2/Classes/StateManager.m:196: warning: unused variable 'index'

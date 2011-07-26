@@ -1,0 +1,121 @@
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:10:22: error: GameLayer.h: No such file or directory
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:15: warning: cannot find interface declaration for 'GameLayer'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '+[GameLayer gameplayScene]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:18: error: 'CCScene' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:18: error: (Each undeclared identifier is reported only once
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:18: error: for each function it appears in.)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:18: error: 'gameplayScene' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:21: warning: 'GameLayer' may not respond to '+node'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:21: warning: (Messages without a matching method signature
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:21: warning: will be assumed to return 'id' and accept
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:21: warning: '...' as arguments.)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:28: warning: control reaches end of non-void function
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer init]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:33: error: no super class declared in @interface for 'GameLayer'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:35: error: 'StateManager' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:38: error: '_tileMap' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:38: error: 'NVMap' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:39: warning: 'GameLayer' may not respond to '-addChild:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:42: error: '_playerChar' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:42: error: 'NVCharacter' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:44: warning: 'GameLayer' may not respond to '-addChild:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:47: error: request for member 'isTouchEnabled' in something not a structure or union
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:50: error: '_dDown1' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:51: error: '_dDown2' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:52: error: '_dUp1' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:53: error: '_dUp2' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:54: error: '_dLeft' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:55: error: '_dRight' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:57: error: '_dTop' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:58: error: '_dBot' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:60: error: '_loopSpeed' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:62: error: '_npcarray' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:66: error: 'NVNpc' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:66: error: 'npc' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:67: warning: 'GameLayer' may not respond to '-addChild:z:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:72: warning: 'GameLayer' may not respond to '-reorderChild:z:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:73: warning: 'GameLayer' may not respond to '-reorderChild:z:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:74: warning: 'GameLayer' may not respond to '-reorderChild:z:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:77: warning: 'GameLayer' may not respond to '-schedule:interval:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:78: error: 'CCFollow' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:78: warning: 'GameLayer' may not respond to '-runAction:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer centerCamera:]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:85: error: 'CCDirector' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:86: error: request for member 'position' in something not a structure or union
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:86: warning: implicit declaration of function 'ccp'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer moveCameraByTile:withDuration:]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:90: error: 'CCMoveBy' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:90: error: '_tileMap' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:90: warning: 'GameLayer' may not respond to '-runAction:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer moveCameraToPos:withDuration:]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:94: error: 'CCDirector' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:95: error: 'CCMoveTo' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:95: warning: 'GameLayer' may not respond to '-runAction:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer registerWithTouchDispatcher]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:101: error: 'CCTouchDispatcher' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer ccTouchBegan:withEvent:]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:106: error: 'textBox' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:108: error: 'CCDirector' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:110: error: '_dDown1' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:110: error: '_dDown2' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:111: error: '_playerChar' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:114: error: '_dUp1' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:114: error: '_dUp2' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:118: error: '_dLeft' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:122: error: '_dRight' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:126: error: '_dTop' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:128: warning: implicit declaration of function 'CCLOG'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:131: error: '_dBot' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:134: error: 'TextBoxLayer' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:134: warning: implicit declaration of function 'ccc4'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:136: error: request for member 'position' in something not a structure or union
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:136: error: request for member 'position' in something not a structure or union
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:137: warning: 'GameLayer' may not respond to '-addChild:z:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:138: warning: 'GameLayer' may not respond to '-schedule:interval:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:139: warning: 'GameLayer' may not respond to '-unschedule:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:140: error: 'NVNpc' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:140: error: 'npc' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:140: error: '_npcarray' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:142: error: selector element does not have a valid object type
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer ccTouchMoved:withEvent:]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:155: error: 'CCDirector' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:157: error: '_dDown1' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:157: error: '_dDown2' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:158: error: '_playerChar' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:158: error: 'kStateDown' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:161: error: '_dUp1' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:161: error: '_dUp2' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:162: error: 'kStateUp' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:165: error: '_dLeft' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:166: error: 'kStateLeft' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:169: error: '_dRight' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:170: error: 'kStateRight' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:174: error: '_dTop' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:178: error: '_dBot' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer ccTouchEnded:withEvent:]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:185: error: '_playerChar' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:185: error: 'kStateIdle' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: At top level:
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:189: error: expected ')' before 'ccTime'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer gameLoop:]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:190: error: '_playerChar' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: At top level:
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:195: error: expected ')' before 'ccTime'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer textBoxUpdate:]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:196: error: 'textBox' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: At top level:
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:199: error: expected ')' before 'TextBoxLayer'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer textBox:didFinishAllTextWithPageCount:]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:200: error: 'textBox' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:200: warning: 'GameLayer' may not respond to '-removeChild:cleanup:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:202: warning: 'GameLayer' may not respond to '-unschedule:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:203: error: '_loopSpeed' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:203: warning: 'GameLayer' may not respond to '-schedule:interval:'
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:204: error: 'NVNpc' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:204: error: 'npc' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:204: error: '_npcarray' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:206: error: selector element does not have a valid object type
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m: In function '-[GameLayer dealloc]':
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:211: error: '_tileMap' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:212: error: '_playerChar' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/GameScene.m:213: error: no super class declared in @interface for 'GameLayer'

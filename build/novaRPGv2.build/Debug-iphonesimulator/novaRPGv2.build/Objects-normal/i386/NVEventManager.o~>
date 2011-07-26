@@ -1,0 +1,2 @@
+/Users/nova/Documents/novaRPGv2/Classes/NVEventManager.m: In function '-[NVEventManager readEventData:fromFile:]':
+/Users/nova/Documents/novaRPGv2/Classes/NVEventManager.m:49: warning: incompatible Objective-C types initializing 'struct NSMutableArray *', expected 'struct CCArray *'

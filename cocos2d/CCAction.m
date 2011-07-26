@@ -338,6 +338,37 @@
 #undef CLAMP
 }
 
+/*
+ {
+ #define CLAMP(x,y,z) MIN(MAX(x,y),z)
+ 
+ CGPoint pos;
+ if(boundarySet)
+ {
+ // whole map fits inside a single screen, no need to modify the position - unless map boundaries are increased
+ if(boundaryFullyCovered) return;
+ 
+ CGPoint tempPos = ccpSub( halfScreenSize, followedNode_.position);
+ pos = ccp(CLAMP(tempPos.x,leftBoundary,rightBoundary), CLAMP(tempPos.y,bottomBoundary,topBoundary));
+ }
+ else {
+ pos = ccpSub( halfScreenSize, followedNode_.position );
+ }
+ 
+ CGPoint moveVect;
+ 
+ CGPoint oldPos = [target_ position];
+ double dist = ccpDistance(pos, oldPos);
+ if (dist > 1){
+ moveVect = ccpMult(ccpSub(pos,oldPos),0.05); //0.05 is the smooth constant.
+ oldPos = ccpAdd(oldPos, moveVect);
+ [target_ setPosition:oldPos];
+ }
+ 
+ #undef CLAMP
+ }
+ */
+
 
 -(BOOL) isDone
 {

@@ -1,0 +1,882 @@
+Tcocos2d libraries
+v7
+r0
+t329613493.771103
+cCheck dependencies
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabel.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabelStringDrawing.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontManager.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/ZFont.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/CDataScanner.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONDeserializer.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONScanner.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONSerializer.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/ZAttributedString.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o" /Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerPost.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o" /Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerRequest.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o" /Users/nova/Documents/novaRPGv2/libs/cocoslive/cocoslive.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o" /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDAudioManager.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDOpenALSupport.o" /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDOpenALSupport.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o" /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CocosDenshion.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o" /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/SimpleAudioEngine.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cLibtool "/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/libcocos2d libraries.a" normal armv6
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004DB990460000000000000132
+t1304006726
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/ExtendedAudioFile.h
+c000000004CC10EB60000000000005E3B
+t1287720630
+s24123
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURL.h
+c000000004CC10D70000000000000A48C
+t1287720304
+s42124
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC10DCA00000000000022F0
+t1287720394
+s8944
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC10DCA00000000000004FE
+t1287720394
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004CC10F3300000000000064FD
+t1287720755
+s25853
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004CC10F330000000000001F45
+t1287720755
+s8005
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC10F3800000000000459B0
+t1287720760
+s285104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC110BE000000000000094F
+t1287721150
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC110BE0000000000000A61
+t1287721150
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC110BE0000000000009369
+t1287721150
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC110BE0000000000003C4A
+t1287721150
+s15434
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC110CB000000000002C650
+t1287721163
+s181840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004CB3E44C0000000000002407
+t1286857804
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/math.h
+c000000004CB3E44400000000000004F1
+t1286857796
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/libcocos2d libraries.a
+t1304236595
+s754072
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o
+t1304236593
+s88880
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDOpenALSupport.o
+t1304236592
+s12228
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o
+t1304236586
+s29320
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o
+t1304236586
+s13772
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o
+t1304236587
+s17368
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o
+t1304236588
+s42032
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o
+t1304236588
+s22484
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o
+t1304236590
+s38952
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o
+t1304236591
+s26892
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o
+t1304236595
+s134188
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o
+t1304236583
+s60632
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o
+t1304236584
+s73740
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o
+t1304236585
+s19800
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+t1304236587
+s6176
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o
+t1304236595
+s32688
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o
+t1304236590
+s90064
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o
+t1304236585
+s27008
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocos2d libraries.LinkFileList
+c000000004DBD1225000000000000094D
+t1304236581
+s2381
+
+N/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o
+t1304236591
+s6156
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/CCDirector.h
+c000000004D92793E00000000000025C4
+t1301444926
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/CCProtocols.h
+c000000004D92793E0000000000000F9A
+t1301444926
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/CCTexture2D.h
+c000000004D92793E0000000000002C9A
+t1301444926
+s11418
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/Platforms/CCGL.h
+c000000004D92793E0000000000000BF8
+t1301444926
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/Platforms/CCNS.h
+c000000004D92793E0000000000000965
+t1301444926
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/Platforms/Mac/MacGLView.h
+c000000004D92793E0000000000000B8C
+t1301444926
+s2956
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/Platforms/Mac/MacWindow.h
+c000000004D92793E000000000000064B
+t1301444926
+s1611
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004D92793E0000000000001FBC
+t1301444926
+s8124
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/Platforms/iOS/EAGLView.h
+c000000004D92793E0000000000001B69
+t1301444926
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004D92793E000000000000083A
+t1301444926
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/Platforms/iOS/glu.h
+c000000004D92793E000000000000030D
+t1301444926
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/ccConfig.h
+c000000004DBCFCC80000000000002727
+t1304231112
+s10023
+i<Availability.h>
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/ccMacros.h
+c000000004D92793E0000000000002167
+t1301444926
+s8551
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/Mac/MacWindow.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Users/nova/Documents/novaRPGv2/cocos2d/ccTypes.h
+c000000004D92793E00000000000018A8
+t1301444926
+s6312
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDAudioManager.h
+c000000004DB04D26000000000000251D
+t1303399718
+s9501
+i"CocosDenshion.h"
+i<AVFoundation/AVFoundation.h>
+i"CDXMacOSXSupport.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDAudioManager.m
+c000000004DB04D260000000000006865
+t1303399718
+s26725
+i"CDAudioManager.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDConfig.h
+c000000004DB04D260000000000000A9A
+t1303399718
+s2714
+
+N/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDOpenALSupport.h
+c000000004DB04D260000000000000CF9
+t1303399718
+s3321
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<CoreFoundation/CFURL.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDOpenALSupport.m
+c000000004DB04D260000000000002602
+t1303399718
+s9730
+i"CDOpenALSupport.h"
+i"CocosDenshion.h"
+i<AudioToolbox/AudioToolbox.h>
+i<AudioToolbox/ExtendedAudioFile.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CocosDenshion.h
+c000000004DB04D260000000000003911
+t1303399718
+s14609
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<Foundation/Foundation.h>
+i"CDConfig.h"
+i"CDOpenALSupport.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CocosDenshion.m
+c000000004DB04D26000000000000B2A5
+t1303399718
+s45733
+i"CocosDenshion.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/SimpleAudioEngine.h
+c000000004DB04D260000000000000EE0
+t1303399718
+s3808
+i"CDAudioManager.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/SimpleAudioEngine.m
+c000000004DB04D26000000000000139B
+t1303399718
+s5019
+i"SimpleAudioEngine.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabel.h
+c000000004DB04D2600000000000006FD
+t1303399718
+s1789
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabel.m
+c000000004DB04D260000000000001AF7
+t1303399718
+s6903
+i"FontLabel.h"
+i"FontManager.h"
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabelStringDrawing.h
+c000000004DB04D260000000000000F44
+t1303399718
+s3908
+i<UIKit/UIKit.h>
+i"ZAttributedString.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabelStringDrawing.m
+c000000004DB04D260000000000008454
+t1303399718
+s33876
+i"FontLabelStringDrawing.h"
+i"ZFont.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontManager.h
+c000000004DB04D260000000000000CEB
+t1303399718
+s3307
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontManager.m
+c000000004DB04D260000000000000D75
+t1303399718
+s3445
+i"FontManager.h"
+i"ZFont.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/ZAttributedString.h
+c000000004DB04D260000000000000C27
+t1303399718
+s3111
+i<Foundation/Foundation.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/ZAttributedString.m
+c000000004DB04D260000000000005547
+t1303399718
+s21831
+i"ZAttributedString.h"
+i"ZAttributedStringPrivate.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/ZAttributedStringPrivate.h
+c000000004DB04D2600000000000002D2
+t1303399718
+s722
+i<Foundation/Foundation.h>
+i"ZAttributedString.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/ZFont.h
+c000000004DB04D260000000000000664
+t1303399718
+s1636
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/FontLabel/ZFont.m
+c000000004DB04D260000000000001324
+t1303399718
+s4900
+i"ZFont.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/CDataScanner.h
+c000000004DB04D260000000000000A15
+t1303399718
+s2581
+i<Foundation/Foundation.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/CDataScanner.m
+c000000004DB04D2600000000000020A7
+t1303399718
+s8359
+i"CDataScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/CDataScanner_Extensions.h
+c000000004DB04D2600000000000005FB
+t1303399718
+s1531
+i"CDataScanner.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/CDataScanner_Extensions.m
+c000000004DB04D260000000000001305
+t1303399718
+s4869
+i"CDataScanner_Extensions.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.h
+c000000004DB04D2600000000000005E6
+t1303399718
+s1510
+i<Foundation/Foundation.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+c000000004DB04D260000000000000703
+t1303399718
+s1795
+i"NSDictionary_JSONExtensions.h"
+i"CJSONDeserializer.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONDeserializer.h
+c000000004DB04D2600000000000009F8
+t1303399718
+s2552
+i<Foundation/Foundation.h>
+i"CJSONScanner.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONDeserializer.m
+c000000004DB04D26000000000000105F
+t1303399718
+s4191
+i"CJSONDeserializer.h"
+i"CJSONScanner.h"
+i"CDataScanner.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONScanner.h
+c000000004DB04D260000000000000F59
+t1303399718
+s3929
+i"CDataScanner.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONScanner.m
+c000000004DB04D26000000000000621C
+t1303399718
+s25116
+i"CJSONScanner.h"
+i"CDataScanner_Extensions.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONSerializer.h
+c000000004DB04D26000000000000086E
+t1303399718
+s2158
+i<Foundation/Foundation.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONSerializer.m
+c000000004DB04D2600000000000027B1
+t1303399718
+s10161
+i"CJSONSerializer.h"
+i"JSONRepresentation.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/JSONRepresentation.h
+c000000004DB04D260000000000000148
+t1303399718
+s328
+i<Foundation/Foundation.h>
+
+N/Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerPost.h
+c000000004DB04D2600000000000010D9
+t1303399718
+s4313
+i<UIKit/UIKit.h>
+i<CommonCrypto/CommonDigest.h>
+i"cocoslive.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerPost.m
+c000000004DB04D2600000000000027FC
+t1303399718
+s10236
+i"CLScoreServerPost.h"
+i"ccMacros.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerRequest.h
+c000000004DB04D2600000000000010E4
+t1303399718
+s4324
+i<UIKit/UIKit.h>
+i"cocoslive.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerRequest.m
+c000000004DB04D260000000000001DA8
+t1303399718
+s7592
+i"CJSONDeserializer.h"
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+i"ccMacros.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/cocoslive/cocoslive.h
+c000000004DB04D2600000000000005C5
+t1303399718
+s1477
+i"CLScoreServerPost.h"
+i"CLScoreServerRequest.h"
+
+N/Users/nova/Documents/novaRPGv2/libs/cocoslive/cocoslive.m
+c000000004DB04D260000000000000521
+t1303399718
+s1313
+i<UIKit/UIKit.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329613493#329613493#0(0"0(0#1#0"8620290112#0"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o" /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDAudioManager.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929391.685814
+e325929393.910609
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o
+x/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDAudioManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@75"Compile /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDAudioManager.m325929391#325929393#0(0"0(0#0#67"/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDAudioManager.m8624061792#1816"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDAudioManager.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDAudioManager.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDOpenALSupport.o" /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDOpenALSupport.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929391.930249
+e325929392.808234
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDOpenALSupport.o
+x/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDOpenALSupport.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@76"Compile /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDOpenALSupport.m325929391#325929392#0(0"0(0#0#68"/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDOpenALSupport.m8621592416#1818"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CDOpenALSupport.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDOpenALSupport.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/CDataScanner.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929385.052807
+e325929386.262543
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o
+x/Users/nova/Documents/novaRPGv2/libs/TouchJSON/CDataScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@69"Compile /Users/nova/Documents/novaRPGv2/libs/TouchJSON/CDataScanner.m325929385#325929386#0(0"0(0#0#61"/Users/nova/Documents/novaRPGv2/libs/TouchJSON/CDataScanner.m8590601536#1808"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/TouchJSON/CDataScanner.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/CDataScanner_Extensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929385.701817
+e325929386.694290
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o
+x/Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/CDataScanner_Extensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@91"Compile /Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/CDataScanner_Extensions.m325929385#325929386#0(0"0(0#0#83"/Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/CDataScanner_Extensions.m8623946048#1841"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/CDataScanner_Extensions.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CDataScanner_Extensions.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONDeserializer.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929386.694699
+e325929387.663834
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o
+x/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONDeserializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONDeserializer.m325929386#325929387#0(0"0(0#0#71"/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONDeserializer.m8622759392#1823"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONDeserializer.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONDeserializer.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONScanner.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929387.090537
+e325929388.421561
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o
+x/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONScanner.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONScanner.m325929387#325929388#0(0"0(0#0#66"/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONScanner.m8621179840#1813"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONScanner.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONScanner.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONSerializer.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929387.664037
+e325929388.770820
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o
+x/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONSerializer.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONSerializer.m325929387#325929388#0(0"0(0#0#69"/Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONSerializer.m8617135936#1819"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/TouchJSON/JSON/CJSONSerializer.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CJSONSerializer.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o" /Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerPost.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929388.771028
+e325929390.266005
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o
+x/Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerPost.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerPost.m325929388#325929390#0(0"0(0#0#66"/Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerPost.m8623545120#1818"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerPost.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerPost.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o" /Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerRequest.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929390.266450
+e325929391.929886
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o
+x/Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@77"Compile /Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerRequest.m325929390#325929391#0(0"0(0#0#69"/Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerRequest.m8621162784#1824"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/cocoslive/CLScoreServerRequest.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CLScoreServerRequest.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o" /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CocosDenshion.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929392.808443
+e325929395.348996
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o
+x/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CocosDenshion.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CocosDenshion.m325929392#325929395#0(0"0(0#0#66"/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CocosDenshion.m8617636608#1814"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/CocosDenshion.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/CocosDenshion.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabel.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929381.546627
+e325929383.540764
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o
+x/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabel.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabel.m325929381#325929383#0(0"0(0#0#58"/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabel.m8628194272#1802"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabel.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabel.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabelStringDrawing.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929381.568645
+e325929384.213448
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o
+x/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabelStringDrawing.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabelStringDrawing.m325929381#325929384#0(0"0(0#0#71"/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabelStringDrawing.m8623991616#1828"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontLabelStringDrawing.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontLabelStringDrawing.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontManager.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929383.541077
+e325929385.052503
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o
+x/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontManager.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontManager.m325929383#325929385#0(0"0(0#0#60"/Users/nova/Documents/novaRPGv2/libs/FontLabel/FontManager.m8605873568#1806"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/FontLabel/FontManager.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/FontManager.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o" /Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929386.262759
+e325929387.090328
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o
+x/Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@95"Compile /Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m325929386#325929387#0(0"0(0#0#87"/Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m8622991520#1849"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/NSDictionary_JSONExtensions.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o" /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/SimpleAudioEngine.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929393.910980
+e325929395.428525
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o
+x/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/SimpleAudioEngine.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@78"Compile /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/SimpleAudioEngine.m325929393#325929395#0(0"0(0#0#70"/Users/nova/Documents/novaRPGv2/libs/CocosDenshion/SimpleAudioEngine.m8627813568#1822"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/CocosDenshion/SimpleAudioEngine.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/SimpleAudioEngine.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/ZAttributedString.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929388.423188
+e325929390.525729
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o
+x/Users/nova/Documents/novaRPGv2/libs/FontLabel/ZAttributedString.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@74"Compile /Users/nova/Documents/novaRPGv2/libs/FontLabel/ZAttributedString.m325929388#325929390#0(0"0(0#0#66"/Users/nova/Documents/novaRPGv2/libs/FontLabel/ZAttributedString.m8628175808#1818"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/FontLabel/ZAttributedString.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZAttributedString.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o" /Users/nova/Documents/novaRPGv2/libs/FontLabel/ZFont.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929384.213659
+e325929385.701042
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o
+x/Users/nova/Documents/novaRPGv2/libs/FontLabel/ZFont.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@62"Compile /Users/nova/Documents/novaRPGv2/libs/FontLabel/ZFont.m325929384#325929385#0(0"0(0#0#54"/Users/nova/Documents/novaRPGv2/libs/FontLabel/ZFont.m8617618848#1794"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/FontLabel/ZFont.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/ZFont.o"0#
+
+CCompileC "build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o" /Users/nova/Documents/novaRPGv2/libs/cocoslive/cocoslive.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s325929390.525948
+e325929391.682376
+r1
+xCompileC
+xbuild/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o
+x/Users/nova/Documents/novaRPGv2/libs/cocoslive/cocoslive.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@66"Compile /Users/nova/Documents/novaRPGv2/libs/cocoslive/cocoslive.m325929390#325929391#0(0"0(0#0#58"/Users/nova/Documents/novaRPGv2/libs/cocoslive/cocoslive.m8617088800#1802"    cd /Users/nova/Documents/novaRPGv2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mno-thumb -miphoneos-version-min=3.1.3 -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-generated-files.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-own-target-headers.hmap" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-all-target-headers.hmap" -iquote "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/cocos2d libraries-project-headers.hmap" -F/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -I/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources/armv6" "-I/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/nova/Documents/novaRPGv2/libs/cocoslive/cocoslive.m -o "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocoslive.o"0#
+
+CLibtool "/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/libcocos2d libraries.a" normal armv6
+s325929395.428786
+e325929395.493104
+r1
+xLibtool
+x/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/libcocos2d libraries.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF07#2@66"Libtool "build/Debug-iphoneos/libcocos2d libraries.a" normal armv6325929395#325929395#0(430"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library0(0#0#0"8622660352#897"    cd /Users/nova/Documents/novaRPGv2    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos -filelist "/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphoneos/cocos2d libraries.build/Objects-normal/armv6/cocos2d libraries.LinkFileList" -framework AVFoundation -framework AudioToolbox -framework CoreGraphics -framework OpenAL -framework OpenGLES -framework QuartzCore /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib -o "/Users/nova/Documents/novaRPGv2/build/Debug-iphoneos/libcocos2d libraries.a"0#
+

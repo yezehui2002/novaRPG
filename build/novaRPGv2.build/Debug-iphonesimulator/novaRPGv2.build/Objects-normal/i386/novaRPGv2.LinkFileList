@@ -1,9 +1,9 @@
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/main.o
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/novaRPGv2AppDelegate.o
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/RootViewController.o
-/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/CharacterModel.o
-/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/MapModel.o
-/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/InventoryModel.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/NVCharacter.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/NVMap.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/NVInventory.o
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/GameLayer.o
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/CCAction.o
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/CCActionCamera.o
@@ -81,5 +81,13 @@
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/TGAlib.o
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/TransformUtils.o
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/ZipUtils.o
-/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/PropertyParser.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/NVNpc.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/StateManager.o
 /Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/GDataXMLNode.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/TextBoxLayer.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/MenuLayer.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/BattleLayer.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/SettingsLayer.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/NVEventManager.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/NVAction.o
+/Users/nova/Documents/novaRPGv2/build/novaRPGv2.build/Debug-iphonesimulator/novaRPGv2.build/Objects-normal/i386/EnvironmentLayer.o

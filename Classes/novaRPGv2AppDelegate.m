@@ -11,7 +11,11 @@
 #import "novaRPGv2AppDelegate.h"
 #import "GameConfig.h"
 #import "GameLayer.h"
+#import "MenuLayer.h"
 #import "RootViewController.h"
+#import "StateManager.h"
+
+#import "GDataXMLNode.h"
 
 @implementation novaRPGv2AppDelegate
 
@@ -49,7 +53,7 @@
 		[CCDirector setDirectorType:kCCDirectorTypeDefault];
 	
 	
-	CCDirector *director = [CCDirector sharedDirector];
+	CCDirector *director = [CCDirector sharedDirector];	
 	
 	// Init the View Controller
 	viewController = [[RootViewController alloc] initWithNibName:nil bundle:nil];
@@ -109,7 +113,7 @@
 	[self removeStartupFlicker];
 	
 	// Run the intro Scene
-	[[CCDirector sharedDirector] runWithScene: [GameLayer gameplayScene]];
+	[[CCDirector sharedDirector] runWithScene: [MenuLayer menuScene]];
 }
 
 

@@ -1,0 +1,6 @@
+<Event name="npc_0">
+	<action type="text" content="Test Test 1 2 3" />
+	<action type="move" duration="2" target="player" position="3,3"/>
+	<action type="camera" duration="2" position="3,3" />
+	<action type="return" />
+</Event>

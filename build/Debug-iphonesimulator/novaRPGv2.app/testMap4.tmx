@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="houses" tilewidth="32" tileheight="32">
+  <image source="houses_tiles.png" trans="ff00ff" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="65" name="bgtiles" tilewidth="32" tileheight="32">
+  <image source="bgtiles.png" trans="ff00ff" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="fgtiles" tilewidth="32" tileheight="32">
+  <image source="fgtiles.png" trans="ff00ff" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="193" source="metatiles.tsx"/>
+ <layer name="bg" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztlrsOwjAMRfN3MPAagAmQKF14LECXSnw8lpAly4pLgARbrYejqEtyaju3bUMI7cDYAxVwMOAS4wicgLMBF/cr5zcOrzlErMwj+nGs1BP9FsCNcDfgRv2s1KuPfpjhnH/coRQ/zTsk5QtlVNhP6k/X2Sl84verA88XyjyDnzQjqQ5deZdj/qSczZG51wz79SHH3M/9SvtJ3wHt/813+addVymjvs2+CTCNMFN6vwt7XgKrCGvFHjTE05ofejVG/R7G+1uz1ZofumEdrfnR/tYG/XifN8A2wk7Zz3GcYfIE4JzdQw==
+  </data>
+ </layer>
+ <layer name="fg" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmEkOwjAMRXN12MEO7sCwYdgwbBiOhithybLsdIjb/EWf9NUqVayPnZGUfBakpdO2Iq3FM6n3Llgx+iD7aV8b0lY8k3rPwbF0DG638pLrL7129ZDDy1fXfFrfI3y1xbJqIrHyVgurxkPH6RiMXcNStJe2OTM12g9SbRvYD9KckLAftLwxOm9o40/XFy2Pur5o42+ubxno9WUife1Ie9KBdAyKGTnuTqQz6UK6BsXU47CEG+lOepCehbGYyH3kRXqTPqTvv03/7r5neO0zGm+dsO42uX5j4a0T1t0m128qn0O/Ia3PMlco5z/pybrz195/pSfrzl+7vt45Ba2+Ok+188Z45xSU859337XmTA30vsd+rDlTA73vsR+E2jbk/rtCWQM9UNZAD5Q10GOubwyI9f0BsC6iaA==
+  </data>
+ </layer>
+ <layer name="extras" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztl8cKwkAURe1ix44dO/aNZWP5/7/yrDVMYl7GyeIdOKsE5jLvEW4SCbsc8YQ5zFs+KwxXvGEVa46zePHEF3aw6ziLF2e84BgnjrN4cccHrnD98SyJKUxjBrP/jeZLAYtYwjJW3Mb5oo4NbGIL2xbOkMyoh30c4BBHFjJIZjTFGc5xgcuQ+UwZJDPa4BZ3uMdDyHymDFHNSIIpQ1QzkmDKENWMJMQhg22C9BiXXSdIj3HZdYL0GGnXkdx/kB4j7TqS+zf1mF/eMaFdU4bX/ev/jwzdSX9MOyb9JkSB7piMOOyYiTjsmKIoiqL8whsB1xpT
+  </data>
+ </layer>
+ <objectgroup name="go" width="40" height="40">
+  <object name="playerspawn" x="976" y="912"/>
+ </objectgroup>
+ <layer name="meta" width="40" height="40" opacity="0.28">
+  <data encoding="base64" compression="zlib">
+   eJztzrEJAAAIwDD//8rP3F0FEUygeyMAAAD4IFvX+Ju5/gcAsK0AOLcMEQ==
+  </data>
+ </layer>
+</map>

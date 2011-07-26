@@ -1,0 +1,4 @@
+/Users/nova/Documents/novaRPGv2/Classes/NVAction.m: In function '-[NVAction initReturnAction]':
+/Users/nova/Documents/novaRPGv2/Classes/NVAction.m:52: error: 'kReturnEvent' undeclared (first use in this function)
+/Users/nova/Documents/novaRPGv2/Classes/NVAction.m:52: error: (Each undeclared identifier is reported only once
+/Users/nova/Documents/novaRPGv2/Classes/NVAction.m:52: error: for each function it appears in.)

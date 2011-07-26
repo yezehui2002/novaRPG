@@ -9,14 +9,23 @@
 
 // When you import this file, you import all the cocos2d classes
 #import "cocos2d.h"
-#import "MapModel.h"
-#import "CharacterModel.h"
+#import "NVMap.h"
+#import "NVCharacter.h"
+#import "NVNpc.h"
+#import "StateManager.h"
+#import "TextBoxLayer.h"
+#import "GDataXMLNode.h"
+#import "NVEventManager.h"
+#import "NVAction.h"
+#import "EnvironmentLayer.h"
 
 // HelloWorld Layer
-@interface GameLayer : CCLayer
+@interface GameLayer : CCLayer <TextBoxDelegate>
 {
-	MapModel *_tileMap;
-	CharacterModel *_playerChar;
+	TextBoxLayer *textBox;
+	
+	NVMap *_tileMap;
+	NVCharacter *_playerChar;
 	
 	CGRect _dDown1;
 	CGRect _dDown2;
@@ -30,14 +39,30 @@
 	
 	float _loopSpeed;
 	
-	NSMutableArray *_npcarray;
+	CCArray *_npcarray;
 }
 
 // returns a Scene that contains the HelloWorld as the only child
-+(id) gameplayScene;
++(id) gameScene;
+
+// Camera Helper Methods
+-(void) followPlayer:(id) sender;
 -(void) centerCamera:(CGPoint)point;
 -(void) moveCameraByTile:(CGPoint)point withDuration:(int) duration;
 -(void) moveCameraToPos:(CGPoint)point withDuration:(int) duration;
+
+// Textbox Actions
+-(void) displayTextbox:(NSString *) displayText;
+
+// Map Change
+-(void) mapChange:(id) sender;
+
+// Methods for Event Checking
+-(void) checkForEvent;
+-(void) triggerNPCEvent:(NVNpc *) npc withDirection:(int) lookDirection;
+
+// Loops and Tick Methods
 -(void) gameLoop: (ccTime) dt;
+-(void) textBoxUpdate:(ccTime)dt;
 
 @end

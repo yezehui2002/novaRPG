@@ -1,0 +1,2 @@
+/Users/nova/Documents/novaRPGv2/Classes/NVEvent.m: In function '-[NVEvent initWithTarget:eventType:]':
+/Users/nova/Documents/novaRPGv2/Classes/NVEvent.m:19: error: expected identifier or '(' before '=' token

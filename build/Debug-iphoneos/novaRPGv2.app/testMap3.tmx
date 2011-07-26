@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="map_left" value="testMap3"/>
+  <property name="map_right" value="testMap3"/>
+ </properties>
+ <tileset firstgid="1" name="testtiles" tilewidth="32" tileheight="32">
+  <image source="testtiles.png"/>
+ </tileset>
+ <tileset firstgid="11" name="metatiles" tilewidth="32" tileheight="32">
+  <image source="metatiles.png"/>
+  <tile id="0">
+   <properties>
+    <property name="Collidable" value="True"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="Collidable" value="False"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="Collidable" value="False"/>
+    <property name="Transition" value="Down"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="Collidable" value="False"/>
+    <property name="Transition" value="Up"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="Collidable" value="False"/>
+    <property name="Transition" value="Left"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="Collidable" value="False"/>
+    <property name="Transition" value="Right"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="bg" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+NiYGBgAmJmIGYBYi48mB2IOYCYE48aNigGsRmRaDYkmg1NDyMSRpcjVx2ye/C5D908bO7DZTYtMACH8WDWkAEAAA==
+  </data>
+ </layer>
+ <layer name="fg" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWDCQAADA0iRpABAAA=
+  </data>
+ </layer>
+ <objectgroup name="go" width="10" height="10">
+  <object name="playerspawn" x="112" y="240"/>
+  <object name="npc_0" type="NPC" x="145" y="177">
+   <properties>
+    <property name="animspeed" value="0.3"/>
+    <property name="behaviour" value="2"/>
+    <property name="displayid" value="playersprite_female"/>
+    <property name="lookdirection" value="4"/>
+    <property name="movearea_x" value="2"/>
+    <property name="movearea_y" value="2"/>
+    <property name="moveinterval" value="2.0"/>
+    <property name="movespeed" value="0.6"/>
+    <property name="reaction" value="text"/>
+    <property name="text" value="Hello, I'm a test NPC."/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer name="meta" width="10" height="10" opacity="0.23">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgoC7ghmJs4sjywlCMS50IFFNbHbHuGygAAF2Voc+QAQAA
+  </data>
+ </layer>
+ <layer name="extras" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWDCQAADA0iRpABAAA=
+  </data>
+ </layer>
+</map>
